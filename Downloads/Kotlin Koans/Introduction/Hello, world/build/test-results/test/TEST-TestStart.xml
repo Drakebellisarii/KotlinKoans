@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestStart" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-09-09T14:24:50" hostname="10-252-167-191.student.trincoll.edu" time="0.001">
+  <properties/>
+  <testcase name="testOk" classname="TestStart" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
